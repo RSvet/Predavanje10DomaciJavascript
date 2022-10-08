@@ -1,0 +1,24 @@
+.green-button{
+    background-color: rgb(35 168 81);
+    color: white;
+    padding: 7px 15px;
+    border-radius: 5px;
+    border:none;
+}
+
+.text-change{    
+    max-height: 111px;
+}
+
+img {
+    width: 190px;
+    height: 190px;
+}
+
+.gender-form {
+    max-height: 119px;
+}
+
+
+
+
